@@ -1,7 +1,7 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              EKNT
+bio:                'We are a group of Esperantists from the Northern Texas region of The United States'
+description:        "Esperanto Klubo de Norda Teksaso"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -10,15 +10,15 @@ url: "" # the base hostname & protocol for your site
 disqus_shortname:   default
 
 # Social
-analytics-id:       "default"
-twitter:            default
+#analytics-id:       "default"
+#twitter:            default
 facebook:           default
-instagram:          default
-github:             default
+#instagram:          default
+#github:             default
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
+location:           Dallas/Ft. Worth, TX
+#phone:              310-318-5555
 email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
@@ -57,6 +57,10 @@ gems:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+
+# Plugins
+plugins_dir:
+  - jekyll-multiple-languages-plugin
 
 paginate: 6
 paginate_path: "/blog/page:num/"
