@@ -111,7 +111,7 @@ defaults:
       type: 'pages'
     values:
       show_meta: false 	# Hide metadata for all pages
-      sidebar: left    	# Possible values › left, right › by default there will be no sidebar
+      sidebar:         	# Possible values › left, right › by default there will be no sidebar
       comments: false
       author: rwolf     # Default author for pages
   -
@@ -120,7 +120,7 @@ defaults:
       type: 'posts'
     values:
       show_meta: true   # Show metadata for all posts
-      sidebar: left     # Possible values › left, right › by default there will be no sidebar
+      sidebar:          # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: rwolf     # Default author for posts
 
