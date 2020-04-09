@@ -25,7 +25,7 @@ author: rwolf
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://esperanto-tx.github.io'
+url: 'https://esperanto-tx.github.io'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -81,7 +81,7 @@ exclude:
 
 
 # The language setting is used in /includes/header.html for html-settings
-language: 'en'
+language: 'eo'
 
 
 # Used › default.html front-matter and compress.html
