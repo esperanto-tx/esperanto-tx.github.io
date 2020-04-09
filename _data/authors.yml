@@ -7,8 +7,22 @@
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 rwolf: # replace this with your info
   name: "rwolf"
-  siterole: "webmaster, designer"
+  siterole: "cowebmaster, designer"
   uri: http://ibawolf.github.io/
   #email:
+  #twitter: "@phlow"
+
+filipo: # replace this with your info
+  name: "Filipo"
+  siterole: "cowebmaster, designer, author"
+  #uri: 
+  email: filipo@grupoj.org
+  #twitter: "@phlow"
+
+jarlo: # replace this with your info
+  name: "Jarlo"
+  siterole: "cowebmaster, designer, author"
+  #uri: 
+  email: earlbills@gmail.com
   #twitter: "@phlow"
 # you can add more authors here
