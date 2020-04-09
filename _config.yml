@@ -107,11 +107,11 @@ compress_html:
 defaults:
   -
     scope:
-      path: '' 				# an empty string here means all files in the project
+      path: ''          # an empty string here means all files in the project
       type: 'pages'
     values:
       show_meta: false 	# Hide metadata for all pages
-      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
+      sidebar: left    	# Possible values › left, right › by default there will be no sidebar
       comments: false
       author: rwolf     # Default author for pages
   -
@@ -120,7 +120,7 @@ defaults:
       type: 'posts'
     values:
       show_meta: true   # Show metadata for all posts
-      # sidebar:        # Possible values › left, right › by default there will be no sidebar
+      sidebar: left     # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: rwolf     # Default author for posts
 
