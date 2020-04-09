@@ -1,3 +1,7 @@
+- title: Hejmo
+  url: "/"
+  side: left
+
 - title: Bonvenon
   url: "/design/welcome_eo/"
   side: left
@@ -63,7 +67,7 @@
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Blogo-Archivo"
+  - title: "BlogArchivo"
     url: "/blog/archive/"
 
 #- title: "Serĉu"

@@ -1,12 +1,25 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+title: "Kontaktoj"
+meta_title: "Kontaktu Nin!"
+#subheadline: "Wufoo-powered contact forms"
+#teaser: "Get in touch with me? Use the contact form."
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
+
+En Dallas:
+Earl "Jarlo" Bills
+earlbills@gmail.com
 
 
- [1]: http://www.wufoo.com/
+En Fort Worth:
+"filipo" - Phil Dorcas
+filipo@grupoj.org
+817.446.4431
+
+
+En Sherman:
+Fred Meyer III 
+f3meyer@gmail.com
+903.893.0501
+
