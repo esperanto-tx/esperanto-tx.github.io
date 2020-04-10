@@ -1,8 +1,8 @@
-- title: Hejmo
+- title: Hejmo/Home
   url: "/"
   side: left
 
-- title: Bonvenon
+- title: Bonvenon/Welcome
   url: "/eo/bonvenon/"
   side: left
 
@@ -63,11 +63,11 @@
 #  - title: "Roadmap"
 #    url: "/roadmap/"
 
-- title: Blogo
+- title: Blogo/Blog
   url: "/blog/"
   side: left
   dropdown:
-  - title: "BlogArchivo"
+  - title: "Blogarchivo/Blog Archive"
     url: "/blog/archive/"
 
 #- title: "Serĉu"
