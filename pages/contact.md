@@ -7,19 +7,18 @@ meta_title: "Kontaktu Nin!"
 permalink: "/contact/"
 ---
 
-En Dallas:
-Earl "Jarlo" Bills
-earlbills@gmail.com
+## En Dallas:
+* Earl "Jarlo" Bills
+* earlbills@gmail.com
 
 
-En Fort Worth:
-"filipo" - Phil Dorcas
-filipo@grupoj.org
-817.446.4431
+## En Fort Worth:
+* "filipo" - Phil Dorcas
+* filipo@grupoj.org
+* 817.446.4431
 
 
-En Sherman:
-Fred Meyer III 
-f3meyer@gmail.com
-903.893.0501
-
+## En Sherman:
+* Fred Meyer III 
+* f3meyer@gmail.com
+* 903.893.0501
