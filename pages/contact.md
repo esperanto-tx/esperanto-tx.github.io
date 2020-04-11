@@ -1,11 +1,16 @@
 ---
 layout: page
-title: "Kontaktu Nin! (Contact Us!")
-meta_title: "Kontaktu Nin!"
-#subheadline: "Wufoo-powered contact forms"
-#teaser: "Get in touch with me? Use the contact form."
+title: "Kontaktu Nin! (Contact Us!)"
+meta_title: "Kontaktu Nin! (Contact Us!)"
+#subheadline: "Kontaktu Nin! (Contact Us!)"
+#teaser: "History and changelog of Feeling Responsive Theme"
+header:
+   image_fullwidth: "gallery-eknt-blank-header.jpg"
 permalink: "/contact/"
 ---
+
+--------------------------
+
 ## En Dallas:
 * Earl "Jarlo" Bills
 * earlbills@gmail.com
@@ -21,3 +26,4 @@ permalink: "/contact/"
 * Fred Meyer III 
 * f3meyer@gmail.com
 * 903.893.0501
+
