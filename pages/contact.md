@@ -1,12 +1,11 @@
 ---
 layout: page
-title: "Kontaktoj"
+title: "Kontaktu Nin! (Contact Us!")
 meta_title: "Kontaktu Nin!"
 #subheadline: "Wufoo-powered contact forms"
 #teaser: "Get in touch with me? Use the contact form."
 permalink: "/contact/"
 ---
-
 ## En Dallas:
 * Earl "Jarlo" Bills
 * earlbills@gmail.com

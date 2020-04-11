@@ -3,7 +3,7 @@
   side: left
 
 - title: Bonvenon/Welcome
-  url: "/eo/bonvenon/"
+  url: /bonvenon/
   side: left
 
 #- title: Getting Started
@@ -63,6 +63,10 @@
 #  - title: "Roadmap"
 #    url: "/roadmap/"
 
+- title: Fotoj/Photos
+  url: "/portfolio/"
+  side: left
+
 - title: Blogo/Blog
   url: "/blog/"
   side: left
@@ -74,6 +78,6 @@
 #  url: "/search/"
 #  side: right
 
-- title: "Kontaktu"
+- title: "Kontaktoj/Contacts"
   url: "/contact/"
   side: right
