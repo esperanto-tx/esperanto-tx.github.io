@@ -11,13 +11,13 @@ permalink: "/kunvenoj/"
 
 --------------------------
 
-1. Open `_config.yml` and work it through, it's well documented
-1. Add your own `logo.png` to `/assets/img/`.
-1. Open `_data/socialmedia.yml` and add your own social media links.
-1. Open `_data/navigation.yml` and customize your navigation.
-1. Open `_data/language.yml` and translate the theme if necessary.
-1. Open `_data/services.yml` and customize links in the footer.
-1. Open `_data/network.yml` and customize links in the footer.
-1. Open `_data/authors.yml` and edit author information and set default author in `config.yml`.
-1. [Read the documentation][1] to check out all features of *Feeling Responsive*.
-1. Make it yours and add your own content.
+
+## Kunvenu Kun Ni! (Meet With Us!)
+----------------------
+
+Kunvenu kun ni la duan sabaton monate ĉe:
+
+5:00 - 7:00 pm
+
+<!-- The map of the Central Market meeting -->
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/?ie=UTF8&amp;ll=32.849404,-96.76871&amp;spn=0.005863,0.007188&amp;t=h&amp;z=17&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/?ie=UTF8&amp;ll=32.849404,-96.76871&amp;spn=0.005863,0.007188&amp;t=h&amp;z=18&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>

@@ -7,7 +7,9 @@ categories:
     - eo
 tags:
     - post format
-header: yes
+header:
+   image_fullwidth: "gallery-eknt-blank-header.jpg"
+sidebar: left
 image:
    title: "2003-11-07..08 -- Tut-Teksasa Kunveno 2003/DSCF0156.jpg"
    thumb: "2003-11-07..08 -- Tut-Teksasa Kunveno 2003/DSCF0156-thumb.jpg"

@@ -2,12 +2,14 @@
 layout: page
 #subheadline:  "Templates"
 title:  "2013 Zamenhof-tag Festo"
-teaser: "Dum decembro de 2013, nia klubo kunvenis por festi la Zamanhof-tag festo.  Kelkaj da ni kunvenis ĉe la hejmo de Filipo kaj Elizabeto kun manĝo, kuko, drinko, kaj kantoj.  La tempo estis ĝuita de ĉiuj."
+teaser: "Dum decembro de 2013, nia klubo kunvenis por festi la Zamanhof-tag festo.  Kelkaj da ni kunvenis ĉe la hejmo de Filipo kaj Elizabeto kun manĝo, kuko, trinko, kaj kantoj.  La tempo estis ĝuita de ĉiuj."
 categories:
     - eo
 tags:
     - post format
-header: yes
+header:
+   image_fullwidth: "gallery-eknt-blank-header.jpg"
+sidebar: left
 image:
    title: "2013-12-14 -- Zamenhof-taga festo/IMG_6209.jpg"
    thumb: "2013-12-14 -- Zamenhof-taga festo/IMG_6209-thumb.jpg"
