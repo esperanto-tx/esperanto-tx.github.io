@@ -13,7 +13,7 @@ sidebar: right
 image:
    title: "2008-07-18 -- TAKE 2008 in Montreal/SANY0127.jpg"
    thumb: "2008-07-18 -- TAKE 2008 in Montreal/SANY0127-thumb.jpg"
-   caption: Photos by Ron Wolf
+   caption: fotos de Ron Wolf
 gallery:
     - image_url: "2008-07-18 -- TAKE 2008 in Montreal/SANY0127.jpg"
       caption: ""

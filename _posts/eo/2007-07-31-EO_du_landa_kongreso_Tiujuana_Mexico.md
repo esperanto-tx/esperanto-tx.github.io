@@ -13,7 +13,7 @@ sidebar: right
 image:
    title: "2007-07-31 -- EO du-landa kongreso, Tiujuana, Mexico/SANY0001_2.jpg"
    thumb: "2007-07-31 -- EO du-landa kongreso, Tiujuana, Mexico/SANY0001_2-thumb.jpg"
-   caption: Photos by Ron Wolf
+   caption: Fotoj de Ron Wolf
 gallery:
     - image_url: "2007-07-31 -- EO du-landa kongreso, Tiujuana, Mexico/SANY0001_2.jpg"
       caption: "La kongresejo"

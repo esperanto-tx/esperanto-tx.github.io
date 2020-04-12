@@ -13,7 +13,7 @@ sidebar: right
 image:
    title: "2003-11-08 -- Tut-Teksasa Kunveno 2003/DSCF0156.jpg"
    thumb: "2003-11-08 -- Tut-Teksasa Kunveno 2003/DSCF0156-thumb.jpg"
-   caption: Photos by Ron Wolf
+   caption: Fotoj de Ron Wolf
 gallery:
     - image_url: "2003-11-08 -- Tut-Teksasa Kunveno 2003/DSCF0154.jpg"
       caption: "La loko de la kunveno"

@@ -13,7 +13,7 @@ sidebar: left
 image:
    title: "2013-12-14 -- Zamenhof-taga festo/IMG_6209.jpg"
    thumb: "2013-12-14 -- Zamenhof-taga festo/IMG_6209-thumb.jpg"
-   caption: Photos by Ron Wolf
+   caption: Fotoj de Ron Wolf
 gallery:
     - image_url: "2013-12-14 -- Zamenhof-taga festo/IMG_6209.jpg"
       caption: "grup-foto de la ĉeestantoj al la zamanhof-tag festo"

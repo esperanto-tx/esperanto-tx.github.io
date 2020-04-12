@@ -13,7 +13,7 @@ sidebar: left
 image:
    title: "2004-11-13 -- Tut-Teksasa Kunveno/DSCF0428.jpg"
    thumb: "2004-11-13 -- Tut-Teksasa Kunveno/DSCF0428-thumb.jpg"
-   caption: Photos by Ron Wolf
+   caption: Fotoj de Ron Wolf
 gallery:
     - image_url: "2004-11-13 -- Tut-Teksasa Kunveno/DSCF0407.jpg"
       caption: "La kunvenejo"

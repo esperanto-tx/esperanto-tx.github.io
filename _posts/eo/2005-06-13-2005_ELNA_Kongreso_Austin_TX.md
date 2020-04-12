@@ -14,7 +14,7 @@ sidebar: left
 image:
    title: "2005-06-13 -- ELNA Kongreso, Austin, TX/grupo.jpg"
    thumb: "2005-06-13 -- ELNA Kongreso, Austin, TX/grupo-thumb.jpg"
-   caption: Photos by Ron Wolf
+   caption: Fotoj de Ron Wolf
 gallery:
     - image_url: "2005-06-13 -- ELNA Kongreso, Austin, TX/DSCF0772.jpg"
       caption: "Etaj mebloj por pup-domoj"

@@ -13,7 +13,7 @@ sidebar: left
 image:
    title: "2008-05-03 -- EO club at Reading of Names ceremony/SANY0052.jpg"
    thumb: "2008-05-03 -- EO club at Reading of Names ceremony/SANY0052-thumb.jpg"
-   caption: Photos by Ron Wolf
+   caption: Fotoj de Ron Wolf
 gallery:
     - image_url: "2008-05-03 -- EO club at Reading of Names ceremony/SANY0044.jpg"
       caption: ""

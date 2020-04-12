@@ -13,7 +13,7 @@ sidebar: right
 image:
    title: "2007-06-09 -- EO club visitors from Hungary/SANY0076.jpg"
    thumb: "2007-06-09 -- EO club visitors from Hungary/SANY0076-thumb.jpg"
-   caption: Photos by Ron Wolf
+   caption: Fotoj de Ron Wolf
 gallery:
     - image_url: "2007-06-09 -- EO club visitors from Hungary/SANY0071.jpg"
       caption: "La patro, vizitanto de Hungario"
