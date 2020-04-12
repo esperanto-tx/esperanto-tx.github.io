@@ -1,18 +1,13 @@
 ---
 layout: page
 show_meta: false
-title: "Kunvenoj (Meetings)"
+title: "Kunvenu Kun Ni! (Meet With Us!)"
 #subheadline: "Kunvenoj (Meetings)"
 #teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
 header:
    image_fullwidth: "gallery-eknt-blank-header.jpg"
 permalink: "/kunvenoj/"
 ---
-
---------------------------
-
-
-## Kunvenu Kun Ni! (Meet With Us!)
 
 |--------------------------------------------|-------------------------------------------------|
 | Kunvenu kun ni la duan sabaton monate ĉe:  | (Meet with us the 2nd Saturday of every month:) |

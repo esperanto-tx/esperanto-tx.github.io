@@ -16,8 +16,11 @@ image:
     thumb: "2013-12-14 -- Zamenhof-taga festo/thumbs/IMG_6209.jpg"
 ---
 ----------------
-
-*Bonvenon* al nia klubo.  Ni kunvenas monate en la Komuna Ĉambro "Community Room" de la vendejo, "Central Market" ĉe la vojkruĉo de “Lovers Lane” kaj “Greenville Avenue” en dalaso.  
+#### eo
+*Bonvenon* al nia klubo.  Ni kunvenas monate en la Komuna Ĉambro "Community Room" de la supervendejo, "Central Market" ĉe la vojkruĉo de “Lovers Lane” kaj “Greenville Avenue” en dalaso.  
+- - - - - - - - -
+#### en
+*Welcome* to our club.  We meet every month en the Community Room in the supermarket, Central Market, at the corner of Lovers Ln. and Greenville Avenue in Dallas.  See our "Kunvenoj/Meetings" page for a map to our meeting place.
 
 ----------------
 
