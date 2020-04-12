@@ -2,14 +2,14 @@
 layout: page
 #subheadline:  "Templates"
 title:  "2009 Landa Kongreso en St. Louis"
-teaser: "Dum decembro de 2008, nia klubo kunvenis por festi la Zamanhof-tag festo.  Kelkaj da ni kunvenis ĉe la hejmo de Filipo kaj Elizabeto kun manĝo, kuko, trinko, kaj kantoj.  La tempo estis ĝuita de ĉiuj."
+teaser: "Dum 2009, la .  Kelkaj da nia klubo ĉeestis la landan kongreson.  La tempo estis ĝuita de ĉiuj."
 categories:
     - eo
 tags:
     - post format
 header:
    image_fullwidth: "gallery-eknt-blank-header.jpg"
-sidebar: left
+sidebar: right
 image:
    title: "2009-05-24 -- Esperanto Konferenco in St. Louis/StLouisArch.jpg"
    thumb: "2009-05-24 -- Esperanto Konferenco in St. Louis/StLouisArch-thumb.jpg"
