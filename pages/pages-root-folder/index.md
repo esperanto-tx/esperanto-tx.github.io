@@ -17,7 +17,7 @@ image:
 ---
 ----------------
 #### eo
-*Bonvenon* al nia klubo.  Ni kunvenas monate en la Komuna Ĉambro "Community Room" de la supervendejo, "Central Market" ĉe la vojkruĉo de “Lovers Lane” kaj “Greenville Avenue” en dalaso.  
+*Bonvenon* al nia klubo.  Ni kunvenas monate en la Komuna Ĉambro de la supervendejo, "Central Market" ĉe la vojkruĉo de “Lovers Lane” kaj “Greenville Avenue” en dalaso.  
 - - - - - - - - -
 #### en
 *Welcome* to our club.  We meet every month en the Community Room in the supermarket, Central Market, at the corner of Lovers Ln. and Greenville Avenue in Dallas.  See our "Kunvenoj/Meetings" page for a map to our meeting place.
