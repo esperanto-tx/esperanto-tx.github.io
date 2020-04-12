@@ -22,7 +22,7 @@ gallery:
     - image_url: "2008-05-03 -- EO club at Reading of Names ceremony/SANY0048.jpg"
       caption: ""
     - image_url: "2008-05-03 -- EO club at Reading of Names ceremony/SANY0052.jpg"
-      caption: ""
+      caption: "Filipo kaj Elizabeto legantajn la nomojn"
 ---
 <!--more-->
 --------------------------
