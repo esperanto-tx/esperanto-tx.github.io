@@ -27,6 +27,8 @@ gallery:
       caption: "Charlotte kaj Steven helpanta Anya kaj Daniel ludi 'Checkers'"
 ---
 <!--more-->
+--------------------------
+Klaku suben por spekti la fotoj (Click below to view the photos)
 {% include gallery %}
 
 
