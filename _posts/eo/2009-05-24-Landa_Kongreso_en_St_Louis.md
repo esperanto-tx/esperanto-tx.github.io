@@ -11,8 +11,8 @@ header:
    image_fullwidth: "gallery-eknt-blank-header.jpg"
 sidebar: left
 image:
-   title: "2009-05-24 -- Esperanto Konferenco in St. Louis/StLouisArchMultExpToneMapped.jpg"
-   thumb: "2009-05-24 -- Esperanto Konferenco in St. Louis/StLouisArchMultExpToneMapped-thumb.jpg"
+   title: "2009-05-24 -- Esperanto Konferenco in St. Louis/StLouisArch.jpg"
+   thumb: "2009-05-24 -- Esperanto Konferenco in St. Louis/StLouisArch-thumb.jpg"
    caption: Fotoj de Ron Wolf (plejparte, la nokta arko estas de Wikipedia)
 gallery:
     - image_url: "2009-05-24 -- Esperanto Konferenco in St. Louis/SANY0001.jpg"
