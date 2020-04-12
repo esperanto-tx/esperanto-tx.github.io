@@ -10,7 +10,7 @@ tags:
 header: yes
 image:
    title: "2013-12-14 -- Zamenhof-taga festo/IMG_6209.jpg"
-   thumb: "2013-12-14 -- Zamenhof-taga festo/thumbs/IMG_6209.jpg"
+   thumb: "2013-12-14 -- Zamenhof-taga festo/IMG_6209-thumb.jpg"
    caption: Photos by Ron Wolf
 gallery:
     - image_url: "2013-12-14 -- Zamenhof-taga festo/IMG_6209.jpg"
@@ -32,6 +32,6 @@ Klaku suben por spekti la fotoj (Click below to view the photos)
 {% include gallery %}
 
 
-## Other Post Formats
+## Other Posts
 {: .t60 }
 {% include list-posts tag='post format' %}
