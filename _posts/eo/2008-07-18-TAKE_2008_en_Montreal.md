@@ -1,7 +1,7 @@
 ---
 layout: page
 #subheadline:  "Templates"
-title:  "2008 TAKE 2008 in Montreal, Quebec, Canada"
+title:  "TAKE 2008 in Montreal Quebec Canada"
 teaser: "TAKE (Tut-Amerika Esperanto Kunveno) Okazas tri-jare.  En 2008 ĝi okazis en Montrealo."
 categories:
     - eo
@@ -13,7 +13,7 @@ sidebar: right
 image:
    title: "2008-07-18 -- TAKE 2008 in Montreal/SANY0127.jpg"
    thumb: "2008-07-18 -- TAKE 2008 in Montreal/SANY0127-thumb.jpg"
-   caption: fotos de Ron Wolf
+   caption: fotoj de Ron Wolf
 gallery:
     - image_url: "2008-07-18 -- TAKE 2008 in Montreal/SANY0127.jpg"
       caption: ""
@@ -73,7 +73,12 @@ gallery:
       caption: "Ĉe la best-ĝardeno"
     - image_url: "2008-07-18 -- TAKE 2008 in Montreal/SANY0302.jpg"
       caption: "Ĉe la best-ĝardeno"
+---
+
 <!--more-->
+
+La Kanada Esperanto-Asocio kaj ELNA havis iliaj landa kongresoj samtempe kaj samurbe.  Kelkaj da la EKNT-anoj ĉeestis TAKE 2008.  Estis tre amuza semajno, kun kelkaj amuzaj 'dum kongresaj ekskursoj'
+
 --------------------------
 Klaku suben por spekti la fotoj (Click below to view the photos)
 {% include gallery %}
