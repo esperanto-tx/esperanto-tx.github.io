@@ -47,7 +47,7 @@ gallery:
     - image_url: "2005-06-13 -- ELNA Kongreso, Austin, TX/DSCF0802.jpg"
       caption: ""
     - image_url: "2005-06-13 -- ELNA Kongreso, Austin, TX/DSCF0804.jpg"
-      caption: ""
+      caption: "Jenja Amis"
     - image_url: "2005-06-13 -- ELNA Kongreso, Austin, TX/DSCF0806.jpg"
       caption: "Jarlo kaj Filipo"
     - image_url: "2005-06-13 -- ELNA Kongreso, Austin, TX/DSCF0807.jpg"
