@@ -11,21 +11,23 @@ header:
    image_fullwidth: "gallery-eknt-blank-header.jpg"
 sidebar: right
 image:
-   title: "2007-06-09 -- EO club visitors from Hungary/SANY0076.jpg"
-   thumb: "2007-06-09 -- EO club visitors from Hungary/SANY0076-thumb.jpg"
+   title: "2007-07-31 -- EO du-landa kongreso, Tiujuana, Mexico/SANY0001_2.jpg"
+   thumb: "2007-07-31 -- EO du-landa kongreso, Tiujuana, Mexico/SANY0001_2-thumb.jpg"
    caption: Photos by Ron Wolf
 gallery:
-    - image_url: "2007-06-09 -- EO club visitors from Hungary/SANY0071.jpg"
-      caption: "La patro, vizitanto de Hungario"
-    - image_url: "2007-06-09 -- EO club visitors from Hungary/SANY0072.jpg"
+    - image_url: "2007-07-31 -- EO du-landa kongreso, Tiujuana, Mexico/SANY0001_2.jpg"
+      caption: "La kongresejo"
+    - image_url: "2007-07-31 -- EO du-landa kongreso, Tiujuana, Mexico/SANY0007_2.jpg"
       caption: ""
-    - image_url: "2007-06-09 -- EO club visitors from Hungary/SANY0073.jpg"
+    - image_url: "2007-07-31 -- EO du-landa kongreso, Tiujuana, Mexico/SANY0008_2.jpg"
       caption: ""
-    - image_url: "2007-06-09 -- EO club visitors from Hungary/SANY0074.jpg"
+    - image_url: "2007-07-31 -- EO du-landa kongreso, Tiujuana, Mexico/SANY0009_2.jpg"
       caption: ""
-    - image_url: "2007-06-09 -- EO club visitors from Hungary/SANY0075.jpg"
+    - image_url: "2007-07-31 -- EO du-landa kongreso, Tiujuana, Mexico/SANY0010_2.jpg"
       caption: ""
-    - image_url: "2007-06-09 -- EO club visitors from Hungary/SANY0076.jpg"
+    - image_url: "2007-07-31 -- EO du-landa kongreso, Tiujuana, Mexico/SANY0011.jpg"
+      caption: ""
+    - image_url: "2007-07-31 -- EO du-landa kongreso, Tiujuana, Mexico/SANY0012.jpg"
       caption: ""
 ---
 
