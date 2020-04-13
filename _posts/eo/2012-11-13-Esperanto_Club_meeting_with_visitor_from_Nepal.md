@@ -11,12 +11,12 @@ header:
    image_fullwidth: "gallery-eknt-blank-header.jpg"
 sidebar: left
 image:
-   title: "2012-11-13 -- Esperanto Club meeting with visitor from Nepal/IMG_6209.jpg"
-   thumb: "2012-11-13 -- Esperanto Club meeting with visitor from Nepal/IMG_6209-thumb.jpg"
+   title: "2012-11-13 -- Esperanto Club meeting with visitor from Nepal/IMG_20121013_170557.jpg"
+   thumb: "2012-11-13 -- Esperanto Club meeting with visitor from Nepal/IMG_20121013_170557-thumb.jpg"
    caption: Fotoj de Ron Wolf
 gallery:
     - image_url: "2012-11-13 -- Esperanto Club meeting with visitor from Nepal/IMG_20121013_170557.jpg"
-      caption: "grup-foto de la ĉeestantoj."
+      caption: ""
     - image_url: "2012-11-13 -- Esperanto Club meeting with visitor from Nepal/IMG_20121013_170935.jpg"
       caption: ""
     - image_url: "2012-11-13 -- Esperanto Club meeting with visitor from Nepal/IMG_20121013_170950.jpg"
