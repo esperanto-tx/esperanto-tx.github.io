@@ -16,18 +16,20 @@ image:
    caption: Fotoj de Ron Wolf
 gallery:
     - image_url: "2012-06-22 -- Landa Kongreso en Dalaso/IMG_0889.jpg"
-      caption: ""
+      caption: "Elizabeto helpas ĉeestanto"
     - image_url: "2012-06-22 -- Landa Kongreso en Dalaso/IMG_0892.jpg"
-      caption: ""
+      caption: "Celia kaj Charlotte interparolas"
     - image_url: "2012-06-22 -- Landa Kongreso en Dalaso/IMG_0893.jpg"
-      caption: ""
+      caption: "Jarlo laboras por la kongreso"
     - image_url: "2012-06-22 -- Landa Kongreso en Dalaso/IMG_0897.jpg"
       caption: ""
     - image_url: "2012-06-22 -- Landa Kongreso en Dalaso/IMG_0899.jpg"
       caption: ""
+    - image_url: "2012-06-22 -- Landa Kongreso en Dalaso/IMG_0901.jpg"
+      caption: ""
 
     - image_url: "2012-06-22 -- Landa Kongreso en Dalaso/IMG_0958.jpg"
-      caption: "grup-foto de la ĉeestantoj al la zamanhof-tag festo"
+      caption: "grup-foto de la ĉeestantoj de la Landa Kongreso en Dalaso"
 ---
 Ĝi okazis ĉe la Universitato de Teksaso ĉe Dalaso.  
 
