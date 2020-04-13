@@ -15,18 +15,19 @@ image:
    thumb: "2012-06-22 -- Landa Kongreso en Dalaso/IMG_0958-thumb.jpg"
    caption: Fotoj de Ron Wolf
 gallery:
-    - image_url: "2012-06-22 -- Landa Kongreso en Dalaso/IMG_6209.jpg"
+    - image_url: "2012-06-22 -- Landa Kongreso en Dalaso/IMG_0889.jpg"
+      caption: ""
+    - image_url: "2012-06-22 -- Landa Kongreso en Dalaso/IMG_0892.jpg"
+      caption: ""
+    - image_url: "2012-06-22 -- Landa Kongreso en Dalaso/IMG_0893.jpg"
+      caption: ""
+    - image_url: "2012-06-22 -- Landa Kongreso en Dalaso/IMG_0897.jpg"
+      caption: ""
+    - image_url: "2012-06-22 -- Landa Kongreso en Dalaso/IMG_0899.jpg"
+      caption: ""
+
+    - image_url: "2012-06-22 -- Landa Kongreso en Dalaso/IMG_0958.jpg"
       caption: "grup-foto de la ĉeestantoj al la zamanhof-tag festo"
-    - image_url: "2012-06-22 -- Landa Kongreso en Dalaso/IMG_6192.jpg"
-      caption: "vortludo farita de Charlotte"
-    - image_url: "2012-06-22 -- Landa Kongreso en Dalaso/IMG_6196.jpg"
-      caption: "Daniel kaj Anya ludanta 'Checkers'"
-    - image_url: "2012-06-22 -- Landa Kongreso en Dalaso/IMG_6200.jpg"
-      caption: "Daniel ludanta 'Checkers'"
-    - image_url: "2012-06-22 -- Landa Kongreso en Dalaso/IMG_6202.jpg"
-      caption: "Steven helpanta Anya ludi 'Checkers'"
-    - image_url: "2012-06-22 -- Landa Kongreso en Dalaso/IMG_6206.jpg"
-      caption: "Charlotte kaj Steven helpanta Anya kaj Daniel ludi 'Checkers'"
 ---
 Ĝi okazis ĉe la Universitato de Teksaso ĉe Dalaso.  
 
