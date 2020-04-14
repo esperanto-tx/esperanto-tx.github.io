@@ -2,7 +2,7 @@
 layout: page
 #subheadline:  "Templates"
 title:  "2013 Zamenhof-tag Festo"
-teaser: "Dum decembro de 2013, nia klubo kunvenis por festi la Zamanhof-tag festo.  Kelkaj da ni kunvenis ĉe la hejmo de Filipo kaj Elizabeto kun manĝo, kuko, trinko, kaj kantoj.  La tempo estis ĝuita de ĉiuj."
+teaser: "Dum decembro de 2013, nia klubo kunvenis por festi la Zamanhof-tag festo.  Kelkaj da ni kunvenis ĉe la hejmo de Filipo kaj Elizabeto kun manĝaĵo, kuko, trinkaĵo, kaj kantoj.  La tempo estis ĝuita de ĉiuj."
 categories:
     - eo
 tags:
@@ -30,7 +30,7 @@ gallery:
 ---
 <!--more-->
 --------------------------
-Klaku suben por spekti la fotoj (Click below to view the photos)
+Klaku suben por spekti la fotoj
 {% include gallery %}
 
 

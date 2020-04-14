@@ -2,7 +2,7 @@
 layout: page
 #subheadline:  "Templates"
 title:  "2008 Zamenhof-tag Festo"
-teaser: "Dum decembro de 2008, nia klubo kunvenis por festi la Zamanhof-tag festo.  Kelkaj da ni kunvenis ĉe la hejmo de Filipo kaj Elizabeto kun manĝo, kuko, trinko, kaj kantoj.  La tempo estis ĝuita de ĉiuj."
+teaser: "Dum decembro de 2008, nia klubo kunvenis por festi la Zamanhof-tag festo.  Kelkaj da ni kunvenis ĉe la hejmo de Filipo kaj Elizabeto kun manĝaĵo, kuko, trinkaĵo, kaj kantoj.  La tempo estis ĝuita de ĉiuj."
 categories:
     - eo
 tags:

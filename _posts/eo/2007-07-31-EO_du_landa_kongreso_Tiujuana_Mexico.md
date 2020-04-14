@@ -2,7 +2,7 @@
 layout: page
 #subheadline:  "Templates"
 title:  "2007 Du-landa Kongreso en Tijuana, Meksiko"
-teaser: "en "
+teaser: "Dum la somero de 2007, la Esperanto-Ligo de Nord-Ameriko kune kun la Esperanta Asocio de Meksiko kunvenis en Tijuano por Du-Landa Kongreso."
 categories:
     - eo
 tags:
