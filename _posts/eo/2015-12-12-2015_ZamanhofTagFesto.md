@@ -40,7 +40,7 @@ gallery:
     - image_url: "2015-12-12 -- 2015 ZamanhofTagFesto/2H0A0965.jpg"
       caption: ""
     - image_url: "2015-12-12 -- 2015 ZamanhofTagFesto/2H0A0968.jpg"
-      caption: ""
+      caption: "Grup-foto de la "
 ---
 <!--more-->
 --------------------------
