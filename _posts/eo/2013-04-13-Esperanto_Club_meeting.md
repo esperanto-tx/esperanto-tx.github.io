@@ -2,7 +2,7 @@
 layout: page
 #subheadline:  "Templates"
 title:  "2013-4 Monata kluba kunveno"
-teaser: "Dum decemlibro de 2013, nia klubo kunvenis por festi la Zamanhof-tag festo.  Kelkaj da ni kunvenis ĉe la hejmo de Filipo kaj Elizabeto kun manĝo, kuko, trinko, kaj kantoj.  La tempo estis ĝuita de ĉiuj."
+teaser: "Dum la aprila klub-kunveno ni lernis ludi novan kart-ludon."
 categories:
     - eo
 tags:
