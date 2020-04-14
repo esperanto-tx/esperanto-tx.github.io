@@ -1,7 +1,7 @@
 ---
 layout: page
 #subheadline:  "Templates"
-title:  "2013-4 Monata kluba kunveno"
+title:  "2013 Aprila Monata kluba kunveno"
 teaser: "Dum la aprila klub-kunveno ni lernis ludi novan kart-ludon."
 categories:
     - eo

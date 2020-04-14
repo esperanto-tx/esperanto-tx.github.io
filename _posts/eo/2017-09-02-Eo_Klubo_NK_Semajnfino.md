@@ -1,8 +1,8 @@
 ---
 layout: page
 #subheadline:  "Templates"
-title:  "2015 Ne-Krokodila Semajnfino"
-teaser: "Dum septembro de 2015, la klubo spertis ne-krokodila semajnfino.  Kelkaj da ni kunvenis ĉe la hejmo de Filipo kaj Elizabeto kun manĝaĵo, kuko, trinkaĵo, kaj kantoj."
+title:  "2017 Ne-Krokodila Semajnfino"
+teaser: "Dum septembro de 2017, la klubo spertis ne-krokodila semajnfino.  Kelkaj da ni kunvenis ĉe la hejmo de Filipo kaj Elizabeto kun manĝaĵo, kuko, trinkaĵo, kaj kantoj."
 categories:
     - eo
 tags:
@@ -16,7 +16,6 @@ image:
    caption: Fotoj de Ron Wolf
 ---
 <!--more-->
-------------------------------
 Ni festis, lernis, ludis, kantis, spektis kinojn kaj manĝis kune dum tri-taga semjanfino.  La tempo estis ĝuita de ĉiuj.
 
 ## Other Posts

@@ -2,7 +2,7 @@
 layout: page
 #subheadline:  "Templates"
 title:  "2012 Esperanto Club Meeting with Visitor from Nepal"
-teaser: "Dum novembro de 2012, nia klubo kunvenis en la kutima loko, ĉe la kutima horo por kunveni.  Ni havis suprizon, vizitanto, esperantisto, de nepalo.
+teaser: "Dum novembro de 2012, nia klubo kunvenis en la kutima loko, ĉe la kutima horo por kunveni.  Ni havis suprizon, vizitanto, esperantisto, de nepalo."
 categories:
     - eo
 tags:
