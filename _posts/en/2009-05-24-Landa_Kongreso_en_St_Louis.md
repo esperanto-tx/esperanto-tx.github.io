@@ -1,10 +1,10 @@
 ---
 layout: page
 #subheadline:  "Templates"
-title:  "2009 Landa Kongreso en Sankta Louiso"
-teaser: "Dum 2009, la .  Kelkaj da nia klubo ĉeestis la landan kongreson.  La tempo estis ĝuita de ĉiuj."
+title:  "2009 Landa Kongreso in St. Louis"
+teaser: "During 2009, the U.S. Landa Kongreso was held in St. Louis.  Several members of our club attended the Landa Kongreso.  The time was enjoyed by all."
 categories:
-    - eo
+    - en
 tags:
     - post format
 header:
@@ -13,14 +13,14 @@ sidebar: right
 image:
    title: "2009-05-24 -- Esperanto Konferenco in Sankta Luiso/StLouisArch.jpg"
    thumb: "2009-05-24 -- Esperanto Konferenco in Sankta Luiso/StLouisArch-thumb.jpg"
-   caption: Fotoj de Ron Wolf (plejparte, la nokta arko estas de Wikipedia)
+   caption: Photos by Ron Wolf (for the most part, the nighttime photo of the Arch is from Wikipedia)
 gallery:
     - image_url: "2009-05-24 -- Esperanto Konferenco in Sankta Luiso/SANY0001.jpg"
       caption: ""
     - image_url: "2009-05-24 -- Esperanto Konferenco in Sankta Luiso/SANY0005.jpg"
       caption: "MoFo"
     - image_url: "2009-05-24 -- Esperanto Konferenco in Sankta Luiso/SANY0008.jpg"
-      caption: "MoFo kaj Lynne"
+      caption: "MoFo and Lynne"
     - image_url: "2009-05-24 -- Esperanto Konferenco in Sankta Luiso/SANY0015.jpg"
       caption: ""
     - image_url: "2009-05-24 -- Esperanto Konferenco in Sankta Luiso/SANY0020.jpg"
@@ -36,11 +36,11 @@ gallery:
     - image_url: "2009-05-24 -- Esperanto Konferenco in Sankta Luiso/SANY0027.jpg"
       caption: ""
     - image_url: "2009-05-24 -- Esperanto Konferenco in Sankta Luiso/IMGP0573.jpg"
-      caption: "Grup-foto de la ĉeestantoj al la 2009 Landa Kongreso"
+      caption: "Group Photo of the attendees at the 2009 Landa Kongreso"
 ---
 <!--more-->
 --------------------------
-Klaku suben por spekti la fotoj (Click below to view the photos)
+Click below to view the photos
 {% include gallery %}
 
 
