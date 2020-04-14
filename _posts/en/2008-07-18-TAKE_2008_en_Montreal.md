@@ -1,10 +1,10 @@
 ---
 layout: page
 #subheadline:  "Templates"
-title:  "TAKE 2008 en Montrealo en Quebec, Canada"
-teaser: "TAKE (Tut-Amerika Esperanto Kunveno) Okazas tri-jare.  En 2008 ĝi okazis en Montrealo."
+title:  "TAKE 2008 in Montreal Quebec Canada"
+teaser: "TAKE (Tut-Amerika Esperanto Kunveno) occurs every three years.  In 2008 it was held in Montreal."
 categories:
-    - eo
+    - en
 tags:
     - post format
 header:
@@ -28,27 +28,27 @@ gallery:
     - image_url: "2008-07-18 -- TAKE 2008 in Montreal/SANY0152.jpg"
       caption: ""
     - image_url: "2008-07-18 -- TAKE 2008 in Montreal/SANY0154.jpg"
-      caption: "Jomo Ludas kaj Kantas"
+      caption: "Jomo playing and singing"
     - image_url: "2008-07-18 -- TAKE 2008 in Montreal/SANY0156.jpg"
       caption: ""
     - image_url: "2008-07-18 -- TAKE 2008 in Montreal/SANY0171.jpg"
-      caption: "Julio Kantas"
+      caption: "Julio Singing"
     - image_url: "2008-07-18 -- TAKE 2008 in Montreal/SANY0181.jpg"
-      caption: "Ekskurso por vidi la praktika loko de 'Cirque du Soleil'"
+      caption: "An Excursion to see the practice location 'Cirque du Soleil'"
     - image_url: "2008-07-18 -- TAKE 2008 in Montreal/SANY0205.jpg"
-      caption: "Ekskurso por grimpi Mont Real"
+      caption: "An Excursion to climb Mont Real"
     - image_url: "2008-07-18 -- TAKE 2008 in Montreal/SANY0225.jpg"
-      caption: "Grup-foto ĉe la pinto de Mont Real"
+      caption: "Group Photo at the top of Mont Real"
     - image_url: "2008-07-18 -- TAKE 2008 in Montreal/SANY0228.jpg"
-      caption: "Grup-foto ĉe la pinto de Mont Real"
+      caption: "Group Photo at the top of Mont Real"
     - image_url: "2008-07-18 -- TAKE 2008 in Montreal/SANY0238.jpg"
-      caption: "Foto de la pinto de Mont Real"
+      caption: "Grup-foto ĉe la pinto de Mont Real"
     - image_url: "2008-07-18 -- TAKE 2008 in Montreal/SANY0241.jpg"
-      caption: "Ĉe la pinto de Mont Real"
+      caption: "At the top of Mont Real"
     - image_url: "2008-07-18 -- TAKE 2008 in Montreal/SANY0242.jpg"
-      caption: "Ĉe la pinto de Mont Real"
+      caption: "At the top of Mont Real"
     - image_url: "2008-07-18 -- TAKE 2008 in Montreal/SANY0243.jpg"
-      caption: "Ĉe la pinto de Mont Real"
+      caption: "At the top of Mont Real"
     - image_url: "2008-07-18 -- TAKE 2008 in Montreal/SANY0267.jpg"
       caption: ""
     - image_url: "2008-07-18 -- TAKE 2008 in Montreal/SANY0268.jpg"
@@ -70,17 +70,17 @@ gallery:
     - image_url: "2008-07-18 -- TAKE 2008 in Montreal/SANY0278.jpg"
       caption: ""
     - image_url: "2008-07-18 -- TAKE 2008 in Montreal/SANY0285.jpg"
-      caption: "Ĉe la best-ĝardeno"
+      caption: "At the Zoo"
     - image_url: "2008-07-18 -- TAKE 2008 in Montreal/SANY0302.jpg"
-      caption: "Ĉe la best-ĝardeno"
+      caption: "At the Zoo"
 ---
 
 <!--more-->
 
-La Kanada Esperanto-Asocio kaj ELNA havis iliaj landa kongresoj samtempe kaj samurbe.  Kelkaj da la EKNT-anoj ĉeestis TAKE 2008.  Estis tre amuza semajno, kun kelkaj amuzaj 'dum kongresaj ekskursoj'
+The Canadian Esperanto Association and ELNA held their Landaj Kongresoj at the same time and in the same city.  Several of the EKNT members attended TAKE 2008.  It was a very fun week with several fun excursions during the meeting."
 
 --------------------------
-Klaku suben por spekti la fotoj (Click below to view the photos)
+Click below to view the photos
 {% include gallery %}
 
 

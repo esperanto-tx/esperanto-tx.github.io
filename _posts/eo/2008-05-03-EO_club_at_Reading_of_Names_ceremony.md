@@ -1,7 +1,7 @@
 ---
 layout: page
 #subheadline:  "Templates"
-title:  "2008 Reading of Names Ceremony"
+title:  "2008 Legantaj da Nomoj Ceremonio"
 teaser: "Ĉiu jaro nia klubo ĉeestas la “Legi la nomojn” cerimonio ĉe loka sinagogo.  2008 estis nia unua fojo."
 categories:
     - eo
