@@ -1,0 +1,22 @@
+- title: Bonvenon!/Welcome!
+  url: "/"
+  side: left
+
+- title: Kunvenoj/Meetings
+  url: /kunvenoj/
+  side: left
+
+- title: Blogo/Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blogarchivo/Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Serĉu"
+  url: "/search/"
+  side: right
+
+- title: "Kontaktoj/Contacts"
+  url: "/contact/"
+  side: right
