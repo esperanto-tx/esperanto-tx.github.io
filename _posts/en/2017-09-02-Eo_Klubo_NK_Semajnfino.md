@@ -16,7 +16,7 @@ image:
    caption: Photos by Ron Wolf
 ---
 <!--more-->
-We celebrated, learned, played, sang, watched films and fested together during a three-day weekend.  The time was enjoyed by all.
+We celebrated, learned, played, sang, watched films and feasted together during a three-day weekend.  The time was enjoyed by all.
 
 ## Other Posts
 {: .t60 }
