@@ -2,7 +2,7 @@
 layout: page
 #subheadline:  "Templates"
 title:  "2017 Ne-Krokodila Semajnfino"
-teaser: "Dum septembro de 2017, la klubo spertis ne-krokodila semajnfino.  Kelkaj da ni kunvenis ĉe la hejmo de Filipo kaj Elizabeto kun manĝaĵo, kuko, trinkaĵo, kaj kantoj."
+teaser: "Dum septembro de 2017, la klubo gastigis ne-krokodila semajnfino.  Kelkaj da ni kunvenis ĉe la hejmo de Filipo kaj Elizabeto kun manĝaĵo, kuko, trinkaĵo, kaj kantoj."
 categories:
     - eo
 tags:
