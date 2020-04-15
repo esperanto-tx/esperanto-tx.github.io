@@ -1,10 +1,10 @@
 ---
 layout: page
 #subheadline:  "Templates"
-title:  "2012 Esperanto-Kluba kunveno kun vizitanto de Nepalo"
-teaser: "Dum novembro de 2012, nia klubo kunvenis en la kutima loko, ĉe la kutima horo por kunveni.  Ni havis suprizon, vizitanto, esperantisto, de nepalo."
+title:  "2012 Esperanto Club Meeting with Visitor from Nepal"
+teaser: "During November of 2012, our club met in the usual place, at the usual meeting hour.  We had a surprise, a visiting esperantist from Nepal"
 categories:
-    - eo
+    - en
 tags:
     - post format
 header:
@@ -13,7 +13,7 @@ sidebar: left
 image:
    title: "2012-11-13 -- Esperanto Club meeting with visitor from Nepal/IMG_20121013_170557.jpg"
    thumb: "2012-11-13 -- Esperanto Club meeting with visitor from Nepal/IMG_20121013_170557-thumb.jpg"
-   caption: Fotoj de Ron Wolf
+   caption: Photos by Ron Wolf
 gallery:
     - image_url: "2012-11-13 -- Esperanto Club meeting with visitor from Nepal/IMG_20121013_170557.jpg"
       caption: ""
