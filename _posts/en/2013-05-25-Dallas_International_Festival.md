@@ -1,10 +1,10 @@
 ---
 layout: page
 #subheadline:  "Templates"
-title:  "2013 Internacia Festivalo de Dalaso"
-teaser: "Dum Majo de 2013 la klubo luis budon ĉe la Internacia Festivalo de Dalaso"
+title:  "2013 Dallas International Festival`"
+teaser: "In May of 2013 the club rented a booth at the Dallas International Festival"
 categories:
-    - eo
+    - en
 tags:
     - post format
 header:
@@ -13,7 +13,7 @@ sidebar: right
 image:
    title: "2013-05-25 -- Dallas International Festival/IMG_3179.jpg"
    thumb: "2013-05-25 -- Dallas International Festival/IMG_3179-thumb.jpg"
-   caption: fotoj de Ron Wolf
+   caption: Photos by Ron Wolf
 gallery:
     - image_url: "2013-05-25 -- Dallas International Festival/IMG_3183.jpg"
       caption: ""
@@ -45,7 +45,7 @@ gallery:
 
 <!--more-->
 --------------------------
-Klaku suben por spekti la fotoj (Click below to view the photos)
+Click below to view the photos
 {% include gallery %}
 
 
