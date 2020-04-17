@@ -2,7 +2,7 @@
 layout: page
 #subheadline:  "Templates"
 title:  "2014 Festivalo de Budoj"
-teaser: "Dum oktobro de 2014, nia klubo kunvenis ĉe la hejmo de Jarlo kaj Celia por festi la Festival de Budoj.  Kelkaj da ni kunvenis ĉe la budo en la malantaŭa ĝardeno.  Ni manĝis kaj trinkis kaj ĝuis la kunesto.
+teaser: "Dum oktobro de 2014, nia klubo kunvenis ĉe la hejmo de Jarlo kaj Celia por festi la Festival de Budoj.  Kelkaj da ni kunvenis ĉe la budo en la malantaŭa ĝardeno.  Ni manĝis kaj trinkis kaj ĝuis la kunesto."
 categories:
     - eo
 tags:
