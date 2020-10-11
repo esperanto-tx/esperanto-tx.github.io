@@ -10,6 +10,7 @@ tags:
 header:
    image_fullwidth: "gallery-eknt-blank-header.jpg"
 sidebar: left
+breadcrumb: true
 image:
    title: "2012-06-22 -- Landa Kongreso en Dalaso/IMG_0958.jpg"
    thumb: "2012-06-22 -- Landa Kongreso en Dalaso/IMG_0958-thumb.jpg"
@@ -161,6 +162,10 @@ Click below to view the photos
 {% include gallery %}
 
 
-## Other Posts
-{: .t60 }
-{% include list-posts tag='post format' %}
+## Other English Posts
+
+<ul>
+    {% for post in site.categories.en %}
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>

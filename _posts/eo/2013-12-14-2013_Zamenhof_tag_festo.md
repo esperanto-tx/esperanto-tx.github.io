@@ -10,6 +10,7 @@ tags:
 header:
    image_fullwidth: "gallery-eknt-blank-header.jpg"
 sidebar: left
+breadcrumb: true
 image:
    title: "2013-12-14 -- Zamenhof-taga festo/IMG_6209.jpg"
    thumb: "2013-12-14 -- Zamenhof-taga festo/IMG_6209-thumb.jpg"
@@ -34,6 +35,10 @@ Klaku suben por spekti la fotoj
 {% include gallery %}
 
 
-## Other Posts
-{: .t60 }
-{% include list-posts tag='post format' %}
+## Aliaj Artikoloj en Esperanto
+
+<ul>
+    {% for post in site.categories.eo %}
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>

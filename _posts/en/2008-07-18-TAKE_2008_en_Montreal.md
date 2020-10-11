@@ -10,6 +10,7 @@ tags:
 header:
    image_fullwidth: "gallery-eknt-blank-header.jpg"
 sidebar: right
+breadcrumb: true
 image:
    title: "2008-07-18 -- TAKE 2008 in Montreal/SANY0127.jpg"
    thumb: "2008-07-18 -- TAKE 2008 in Montreal/SANY0127-thumb.jpg"
@@ -84,6 +85,10 @@ Click below to view the photos
 {% include gallery %}
 
 
-## Other Posts
-{: .t60 }
-{% include list-posts tag='post format' %}
+## Other English Posts
+
+<ul>
+    {% for post in site.categories.en %}
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>

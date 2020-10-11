@@ -10,6 +10,7 @@ tags:
 header:
    image_fullwidth: "gallery-eknt-blank-header.jpg"
 sidebar: right
+breadcrumb: true
 image:
    title: "2013-05-25 -- Dallas International Festival/IMG_3179.jpg"
    thumb: "2013-05-25 -- Dallas International Festival/IMG_3179-thumb.jpg"
@@ -49,6 +50,10 @@ Klaku suben por spekti la fotoj (Click below to view the photos)
 {% include gallery %}
 
 
-## Other Posts
-{: .t60 }
-{% include list-posts tag='post format' %}
+## Aliaj Artikoloj en Esperanto
+
+<ul>
+    {% for post in site.categories.eo %}
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>

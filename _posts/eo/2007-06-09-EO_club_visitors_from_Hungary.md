@@ -10,6 +10,7 @@ tags:
 header:
    image_fullwidth: "gallery-eknt-blank-header.jpg"
 sidebar: right
+breadcrumb: true
 image:
    title: "2007-06-09 -- EO club visitors from Hungary/SANY0076.jpg"
    thumb: "2007-06-09 -- EO club visitors from Hungary/SANY0076-thumb.jpg"
@@ -37,6 +38,10 @@ Klaku suben por spekti la fotoj (Click below to view the photos)
 {% include gallery %}
 
 
-## Other Posts
-{: .t60 }
-{% include list-posts tag='post format' %}
+## Aliaj Artikoloj en Esperanto
+
+<ul>
+    {% for post in site.categories.eo %}
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>

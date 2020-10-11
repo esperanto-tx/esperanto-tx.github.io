@@ -10,6 +10,7 @@ tags:
 header:
    image_fullwidth: "gallery-eknt-blank-header.jpg"
 sidebar: left
+breadcrumb: true
 image:
    title: "2008-12-13 -- Zamenhof-tag-festo/SANY0010.jpg"
    thumb: "2008-12-13 -- Zamenhof-tag-festo/SANY0010-thumb.jpg"
@@ -32,6 +33,10 @@ Click below to view the photos
 {% include gallery %}
 
 
-## Other Posts
-{: .t60 }
-{% include list-posts tag='post format' %}
+## Other English Posts
+
+<ul>
+    {% for post in site.categories.en %}
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>

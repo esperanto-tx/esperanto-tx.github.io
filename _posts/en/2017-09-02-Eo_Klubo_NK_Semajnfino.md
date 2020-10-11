@@ -10,6 +10,7 @@ tags:
 header:
    image_fullwidth: "gallery-eknt-blank-header.jpg"
 sidebar: left
+breadcrumb: true
 image:
    title: "2017-09-02 -- Eo Klubo NK Semajnfino/2H0A7210.jpg"
    thumb: "2017-09-02 -- Eo Klubo NK Semajnfino/2H0A7210-thumb.jpg"
@@ -18,6 +19,10 @@ image:
 <!--more-->
 We celebrated, learned, played, sang, watched films and feasted together during a three-day weekend.  The time was enjoyed by all.
 
-## Other Posts
-{: .t60 }
-{% include list-posts tag='post format' %}
+## Other English Posts
+
+<ul>
+    {% for post in site.categories.en %}
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>

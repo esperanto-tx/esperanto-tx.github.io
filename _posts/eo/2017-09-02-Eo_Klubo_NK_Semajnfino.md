@@ -10,6 +10,7 @@ tags:
 header:
    image_fullwidth: "gallery-eknt-blank-header.jpg"
 sidebar: left
+breadcrumb: true
 image:
    title: "2017-09-02 -- Eo Klubo NK Semajnfino/2H0A7210.jpg"
    thumb: "2017-09-02 -- Eo Klubo NK Semajnfino/2H0A7210-thumb.jpg"
@@ -17,7 +18,3 @@ image:
 ---
 <!--more-->
 Ni festis, lernis, ludis, kantis, spektis kinojn kaj manĝis kune dum tri-taga semjanfino.  La tempo estis ĝuita de ĉiuj.
-
-## Other Posts
-{: .t60 }
-{% include list-posts tag='post format' %}

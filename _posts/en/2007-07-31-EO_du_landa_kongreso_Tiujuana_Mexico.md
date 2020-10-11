@@ -10,6 +10,7 @@ tags:
 header:
    image_fullwidth: "gallery-eknt-blank-header.jpg"
 sidebar: right
+breadcrumb: true
 image:
    title: "2007-07-31 -- EO du-landa kongreso, Tiujuana, Mexico/SANY0001_2.jpg"
    thumb: "2007-07-31 -- EO du-landa kongreso, Tiujuana, Mexico/SANY0001_2-thumb.jpg"
@@ -99,7 +100,11 @@ Click below to view the photos
 {% include gallery %}
 
 
-## Other Posts
-{: .t60 }
-{% include list-posts tag='post format' %}
+## Other English Posts
+
+<ul>
+    {% for post in site.categories.en %}
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
  

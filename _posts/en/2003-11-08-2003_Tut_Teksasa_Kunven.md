@@ -10,6 +10,7 @@ tags:
 header:
    image_fullwidth: "gallery-eknt-blank-header.jpg"
 sidebar: right
+breadcrumb: true
 image:
    title: "2003-11-08 -- Tut-Teksasa Kunveno 2003/DSCF0156.jpg"
    thumb: "2003-11-08 -- Tut-Teksasa Kunveno 2003/DSCF0156-thumb.jpg"
@@ -54,6 +55,10 @@ Click below to view the photos
 {% include gallery %}
 
 
-## Other Posts
-{: .t60 }
-{% include list-posts tag='post format' %}
+## Other English Posts
+
+<ul>
+    {% for post in site.categories.en %}
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>

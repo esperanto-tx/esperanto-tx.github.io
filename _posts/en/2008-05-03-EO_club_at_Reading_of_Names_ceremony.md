@@ -9,6 +9,7 @@ tags:
     - post format
 header:
    image_fullwidth: "gallery-eknt-blank-header.jpg"
+breadcrumb: true
 sidebar: left
 image:
    title: "2008-05-03 -- EO club at Reading of Names ceremony/SANY0052.jpg"
@@ -30,6 +31,10 @@ Click below to view the photos
 {% include gallery %}
 
 
-## Other Posts
-{: .t60 }
-{% include list-posts tag='post format' %}
+## Other English Posts
+
+<ul>
+    {% for post in site.categories.en %}
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
