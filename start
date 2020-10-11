@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-bundle exec jekyll serve --config _config.yml,_config_dev.yml --watch --port 4001
+bundle exec jekyll serve --config _config.yml,_config_dev.yml --watch --incremental --port 4001
 #bundle exec jekyll serve --watch

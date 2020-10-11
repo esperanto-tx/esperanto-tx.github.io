@@ -1,10 +1,10 @@
 ---
 layout: page
 show_meta: false
-title: "Style your content!"
-subheadline: "Layouts of Feeling Responsive"
+title: "Blog Posts in English"
+subheadline: "Get to know us."
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "gallery-eknt-blank-header.jpg"
 permalink: "/en/"
 ---
 <ul>

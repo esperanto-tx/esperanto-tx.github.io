@@ -7,13 +7,15 @@
   side: left
 
 - title: Blogo/Blog
-  url: "/eo/"
+  url: "/blog/"
   side: left
   dropdown:
   - title: "Blogo en Esperanto"
     url: "/eo/"
   - title: "Blog in English"
     url: "/en/"
+  - title: "Archive/Arkivo"
+    url: "/blog/archive/"
 
 - title: "Serĉu"
   url: "/search/"
