@@ -3,6 +3,8 @@ layout: page
 show_meta: false
 title: "Artikoloj en Esperanto"
 subheadline: "Konatiĝu nin"
+sidebar: right
+breadcrumb: true
 header:
    image_fullwidth: "gallery-eknt-blank-header.jpg"
 permalink: "/eo/"

@@ -3,6 +3,8 @@ layout: page
 show_meta: false
 title: "Blog Posts in English"
 subheadline: "Get to know us."
+sidebar: right
+breadcrumb: true
 header:
    image_fullwidth: "gallery-eknt-blank-header.jpg"
 permalink: "/en/"
