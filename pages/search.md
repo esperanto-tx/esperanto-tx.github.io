@@ -1,7 +1,7 @@
 ---
 permalink: /search/
 layout: page
-title: "Search"
+title: "Serĉu/Search"
 sitemap: false
 header:
    image_fullwidth: "gallery-eknt-blank-header.jpg"
