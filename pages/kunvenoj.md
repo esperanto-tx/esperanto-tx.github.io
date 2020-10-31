@@ -15,6 +15,32 @@ permalink: "/kunvenoj/"
 | 5:00 - 7:00 pm                             |                                                 |
 |--------------------------------------------|-------------------------------------------------|
 
+<div class="show-for-small">
+<div class="row">
+    <div class="small-12 columns">
+        </div><!-- /.small-12.columns -->
+    </div>
+<div class="row">
+  <div class="small-6 columns">
+      <img src="/images/KovidKrizo.png">
+  </div>
+  <div class="small-6 columns">
+      <img src="http://placehold.it/470x264/e05a10/e1e75e&amp;text=2+Columns">
+  </div>
+</div>
+</div>
+
+<div class="row">
+  <div class="large-6 columns">
+      <img src="/images/KovidKrizo.png">
+  </div>
+  <div class="large-6 columns">
+      <img src="/images/CovidCrisis.png">
+  </div>
+</div>
+
+
+
 
 
 <!-- The map of the Central Market meeting -->

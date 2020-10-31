@@ -1,0 +1,41 @@
+#!/usr/bin/env zsh
+
+for i in `find ./_site -type f -name \*.html`
+do
+	# printf '\n%s\n' $i
+	# printf '%s\n' "-----------------------------------------------------"
+	if [[ `grep -q localhost $i;echo $?` -eq "0" ]]; then
+		printf '%s\n' "file ${i} needs to change"
+		sed -i .bkup s/localhost:4001/esperanto-tx.org/g $i
+	fi
+done
+
+for i in `find ./_site -type f -name \*.md`
+do
+	# printf '\n%s\n' $i
+	# printf '%s\n' "-----------------------------------------------------"
+	if [[ `grep -q localhost $i;echo $?` -eq "0" ]]; then
+		printf '%s\n' "file ${i} needs to change"
+		sed -i .bkup s/localhost:4001/esperanto-tx.org/g $i
+	fi
+done
+
+for i in `find ./_site -type f -name \*.xml`
+do
+	# printf '\n%s\n' $i
+	# printf '%s\n' "-----------------------------------------------------"
+	if [[ `grep -q localhost $i;echo $?` -eq "0" ]]; then
+		printf '%s\n' "file ${i} needs to change"
+		sed -i .bkup s/localhost:4001/esperanto-tx.org/g $i
+	fi
+done
+
+for i in `find ./_site -type f -name \*.js`
+do
+	# printf '\n%s\n' $i
+	# printf '%s\n' "-----------------------------------------------------"
+	if [[ `grep -q localhost $i;echo $?` -eq "0" ]]; then
+		printf '%s\n' "file ${i} needs to change"
+		sed -i .bkup s/localhost:4001/esperanto-tx.org/g $i
+	fi
+done
