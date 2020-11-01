@@ -20,7 +20,7 @@ video:
 ---
 ### Klub-Kunveno ĉe Central Market
 #### Greenville Ave. ĉe Lover's Lane, Dallas, TX
-Okazis nia kutima kunveno ĉe la Komunuma-Ĉambro ĉe Central Market.  Okazis dum la Patrina-Tago Semajnfino, kaj la vendejo utilizis la Komonuma-ĉambro por iliaj kialoj.  Estis bela printempa vespero, kaj ni kunvenis sur la balkono.  Ni faris la aferoj kutimaj:
+Okazis nia kutima kunveno ĉe la Komunuma-Ĉambro ĉe Central Market.  Okazis dum la Patrina-Tago Semajnfino, kaj la vendejo utilizis la Komonuma-ĉambro por iliaj kialoj.  Estis bela printempa vespero, kaj ni kunvenis sur la balkono.  Ni faris la kutimajn aferojn:
 ###### * Diskutis nunajn okazojn
 ###### * Ni gastigis vizitanton, Kaleb, kiu studis Esperanton dum tri semajnojn.  Li renkontis Ŝarloton per la postelefon-aplikajo, 'Amikumu'
 ###### * Ni legis capitron de "La Verda Koro" kune.
