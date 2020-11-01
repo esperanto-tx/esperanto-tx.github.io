@@ -7,6 +7,7 @@ do
 	if [[ `grep -q localhost $i;echo $?` -eq "0" ]]; then
 		printf '%s\n' "file ${i} needs to change"
 		sed -i .bkup s/localhost:4001/esperanto-tx.org/g $i
+		sed -i .bkup s/localhost%3A4001/esperanto-tx.org/g $i
 	fi
 done
 
@@ -17,6 +18,7 @@ do
 	if [[ `grep -q localhost $i;echo $?` -eq "0" ]]; then
 		printf '%s\n' "file ${i} needs to change"
 		sed -i .bkup s/localhost:4001/esperanto-tx.org/g $i
+		sed -i .bkup s/localhost%3A4001/esperanto-tx.org/g $i
 	fi
 done
 
@@ -27,6 +29,7 @@ do
 	if [[ `grep -q localhost $i;echo $?` -eq "0" ]]; then
 		printf '%s\n' "file ${i} needs to change"
 		sed -i .bkup s/localhost:4001/esperanto-tx.org/g $i
+		sed -i .bkup s/localhost%3A4001/esperanto-tx.org/g $i
 	fi
 done
 
@@ -37,5 +40,11 @@ do
 	if [[ `grep -q localhost $i;echo $?` -eq "0" ]]; then
 		printf '%s\n' "file ${i} needs to change"
 		sed -i .bkup s/localhost:4001/esperanto-tx.org/g $i
+		sed -i .bkup s/localhost%3A4001/esperanto-tx.org/g $i
 	fi
+done
+
+for i in `find ./_site -type f -name \*.bkup`
+do
+  rm $i
 done
