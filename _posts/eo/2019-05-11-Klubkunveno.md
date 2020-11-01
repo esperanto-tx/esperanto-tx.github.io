@@ -18,8 +18,10 @@ video:
     contentURL: "https://youtu.be/YvI8CLzcORA"
     thumbnailUrl: "http://img.youtube.com/vi/YvI8CLzcORA&t/maxresdefault.jpg"
 ---
+----------
 ### Klub-Kunveno ĉe Central Market
 #### Greenville Ave. ĉe Lover's Lane, Dallas, TX
+----------
 Okazis nia kutima kunveno ĉe la Komunuma-Ĉambro ĉe Central Market.  Okazis dum la Patrina-Tago Semajnfino, kaj la vendejo utilizis la Komonuma-ĉambro por iliaj kialoj.  Estis bela printempa vespero, kaj ni kunvenis sur la balkono.  Ni faris la kutimajn aferojn:
 ###### * Diskutis nunajn okazojn
 ###### * Ni gastigis vizitanton, Kaleb, kiu studis Esperanton dum tri semajnojn.  Li renkontis Ŝarloton per la postelefon-aplikajo, 'Amikumu'
@@ -27,6 +29,6 @@ Okazis nia kutima kunveno ĉe la Komunuma-Ĉambro ĉe Central Market.  Okazis du
 ###### * Ne ludis ludon nomita "Headbands" sed en Esperanto.
 
 ### Pri La video de Ŝarloto
-Ŝarloto havas video-kanalo en YouTube-o. Ŝi prenis la video-aparaton kaj rakordis la kunvenon.  Dankplene ŝi redaktis la tedajn partojn, kaj la video estas multe malpli longa ol la kunveno.
+Ŝarloto havas video-kanalon en YouTube-o. Ŝi prenis la video-aparaton kaj rakordis la kunvenon.  Ne cagrenu, ŝi redaktis partojn, kaj la video estas multe malpli longa ol la duhora kunveno.
 
 Fonto: [Esperanto-Klubo de Norda Teksaso - Central Market](https://www.youtube.com/watch?v=YvI8CLzcORA&t=1159s)

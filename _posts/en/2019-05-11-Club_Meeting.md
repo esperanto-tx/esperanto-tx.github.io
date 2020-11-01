@@ -18,8 +18,10 @@ video:
     contentURL: "https://youtu.be/YvI8CLzcORA"
     thumbnailUrl: "http://img.youtube.com/vi/YvI8CLzcORA&t/maxresdefault.jpg"
 ---
+---------
 ### Club meeting at Central Market
 #### Greenville Ave. at Lover's Lane, Dallas, TX
+---------
 We had our usual meeting at the Community Room at Central Market.  It was Mother's Day weekend, and the store was utilizing the Community Room for their own purposes.  It was a beautiful spring evening, so we held our meeting on the balcony. We did all the things we usually do:
 
 ##### * Discussed current events
@@ -29,6 +31,6 @@ We had our usual meeting at the Community Room at Central Market.  It was Mother
 
 
 ### About the video by Charlotte
-Charlotte has a video channel on YouTube. She brought her recording equipment and recorded the meeting.  Thankfully she edited out the tedious parts, and the video is much shorter than the meeting. 
+Charlotte has a video channel on YouTube. She brought her recording equipment and recorded the meeting.  Don't worry, she edited out parts, and the video is much shorter than the two hour meeting. 
 
 Source: [Esperanto-Klubo de Norda Teksaso - Central Market](https://www.youtube.com/watch?v=YvI8CLzcORA&t=1159s)
