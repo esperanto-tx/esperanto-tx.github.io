@@ -2,7 +2,7 @@
 layout: video
 show_meta: false
 title: "2019/05/11 Klub-Kunveno"
-subheadline: "Ĉe Central Market, Lovers ĉe Greenville, Dallas, TX"
+#subheadline: "Ĉe Central Market, Lovers ĉe Greenville, Dallas, TX"
 #teaser: "If you want to show videos in a large manner, the video template is the right choice."
 tags:
     - post format

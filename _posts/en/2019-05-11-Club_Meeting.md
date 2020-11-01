@@ -2,7 +2,7 @@
 layout: video
 show_meta: false
 title: "05/11/2019 Club Meeting"
-subheadline: "At Central Market, Lovers at Greenville, Dallas, TX"
+#subheadline: "At Central Market, Lovers at Greenville, Dallas, TX"
 #teaser: "If you want to show videos in a large manner, the video template is the right choice."
 tags:
     - post format
@@ -26,6 +26,7 @@ We had our usual meeting at the Community Room at Central Market.  It was Mother
 ##### * We had a visitor, Caleb, who had studied Esperanto for 3 weeks.  He met Charlotte via the app 'Amikumu'
 ##### * We read a chapter from "La Verda Koro" together.
 ##### * We played a game called "Headbands" but in Esperanto
+
 
 ### About the video by Charlotte
 Charlotte has a video channel on YouTube. She brought her recording equipment and recorded the meeting.  Thankfully she edited out the tedious parts, and the video is much shorter than the meeting. 
