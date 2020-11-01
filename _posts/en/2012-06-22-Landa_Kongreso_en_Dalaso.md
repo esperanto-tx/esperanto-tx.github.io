@@ -2,7 +2,7 @@
 layout: page
 #subheadline:  "Templates"
 title:  "2012 Landa Kongreso in Dallas"
-teaser: "During June of 2012, our club hosted the Esperanto-USA Landa Kongreso in DAllas.  Almost the whole club attended the meeting."
+teaser: "During June of 2012, our club hosted the Esperanto-USA Landa Kongreso in Dallas.  Almost the whole club attended the meeting."
 categories:
     - en
 tags:
