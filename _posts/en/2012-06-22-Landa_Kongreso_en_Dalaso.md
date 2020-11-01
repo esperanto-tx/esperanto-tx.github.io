@@ -154,7 +154,7 @@ gallery:
     - image_url: "2012-06-22 -- Landa Kongreso en Dalaso/IMG_0958.jpg"
       caption: "grup-foto de la ĉeestantoj de la Landa Kongreso en Dalaso"
 ---
-The Convention happed at the University of Texas at Dallas.
+The Convention happened at the University of Texas at Dallas.
 
 <!--more-->
 --------------------------
