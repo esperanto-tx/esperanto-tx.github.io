@@ -17,10 +17,14 @@ image:
 ---
 ----------------
 #### eo
-*Bonvenon* al nia klubo.  Ni kunvenas monate en la Komuna Ĉambro de la supervendejo, "Central Market" ĉe la vojkruĉo de “Lovers Lane” kaj “Greenville Avenue” en dalaso.  
+*Bonvenon* al nia klubo.  Ni kunvenas monate en la Komuna Ĉambro de la supervendejo, "Central Market" ĉe la vojkruĉo de “Lovers Lane” kaj “Greenville Avenue” en dalaso.
+
+Abonu nian <a href="https://groups.google.com/g/esperanto-klubo-de-norda-teksaso">Google Groups retpoŝtliston</a> por ricevi ĝisdatigojn kaj anoncojn pri la grupo.
 - - - - - - - - -
 #### en
 *Welcome* to our club.  We meet every month en the Community Room in the supermarket, Central Market, at the corner of Lovers Ln. and Greenville Avenue in Dallas.  See our "Kunvenoj/Meetings" page for a map to our meeting place.
+
+Subscribe to our <a href="https://groups.google.com/g/esperanto-klubo-de-norda-teksaso">Google Groups mailing-list</a> for discussions and announcements pertaining to the club.
 
 ----------------
 
