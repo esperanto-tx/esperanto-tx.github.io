@@ -12,7 +12,7 @@ permalink: "/kunvenoj/"
 |--------------------------------------------|-------------------------------------------------|
 | Kunvenu kun ni la duan sabaton monate ĉe:  | (Meet with us the 2nd Saturday of every month:) |
 |--------------------------------------------|-------------------------------------------------|
-| 5:00 - 7:00 pm                             |                                                 |
+| 5:00 - 7:00 pm (CST)                       |                                                 |
 |--------------------------------------------|-------------------------------------------------|
 
 <div class="show-for-small">
@@ -32,16 +32,20 @@ permalink: "/kunvenoj/"
 
 <div class="row">
   <div class="large-6 columns">
-      <img src="/images/KovidKrizo.png">
+      <img src="/images/KovidKrizo.png" alt="Kutime ni kunvenas ĉe la loko sube, sed dum la Kovid Krizo, ni kunvenas nur per Jitsi Meet.">
+      <p>Dum la Kovid Krizo, oni povas aliĝi niajn kunvenojn per ajna retfoliumilo ĉe la suba <a href="https://meet.jit.si/eknt-kunveno">Jitsi Meet retadreso</a>. Vi simple klaku tiun ligilon je la 5a p.t.m., kaj permesu la retejon aliri vian filmilon/mikrofonon.</p>
   </div>
   <div class="large-6 columns">
-      <img src="/images/CovidCrisis.png">
+      <img src="/images/CovidCrisis.png" alt="Usually we meet at the location below, but during the Covid Crisis we are meeting only on Jitsi Meet.">
+      <p>During the Covid Crisis, you can join our meetings with any web-browser via the below <a href="https://meet.jit.si/eknt-kunveno">Jitsi Meet address</a>. To join, simply click that link at 5:00 pm, and grant the website camera/microphone access.</p>
   </div>
 </div>
 
-
-
-
+<hr />
+<p style="text-align: center">
+  <b>Jitsi Meet: <a href="https://meet.jit.si/eknt-kunveno">https://meet.jit.si/eknt-kunveno</a></b>
+</p>
+<hr />
 
 <!-- The map of the Central Market meeting -->
 <a href="https://maps.google.com/?ie=UTF8&amp;ll=32.849404,-96.76871&amp;spn=0.005863,0.007188&amp;t=h&amp;z=18&amp;source=embed" style="color:#0000FF;text-align:left" target='blank'>Spektu pli grandan Mapon (Look at a larger map)</a>
