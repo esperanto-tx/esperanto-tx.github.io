@@ -32,7 +32,7 @@ permalink: "/kunvenoj/"
 
 <hr />
 <p style="text-align: center">
-  <b>Jitsi Meet: <a href="https://us06web.zoom.us/j/84117554639?pwd=RkTYwWm532lLtxwHS47T1vAWuCtNZz.1">https://us06web.zoom.us/j/84117554639?pwd=RkTYwWm532lLtxwHS47T1vAWuCtNZz.1</a></b>
+  <b>Zoom: <a href="https://us06web.zoom.us/j/84117554639?pwd=RkTYwWm532lLtxwHS47T1vAWuCtNZz.1">https://us06web.zoom.us/j/84117554639?pwd=RkTYwWm532lLtxwHS47T1vAWuCtNZz.1</a></b>
 </p>
 <hr />
 
