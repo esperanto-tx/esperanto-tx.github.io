@@ -9,11 +9,11 @@ header:
 permalink: "/kunvenoj/"
 ---
 
-|--------------------------------------------|-------------------------------------------------|
-| Kunvenu kun ni la duan sabaton monate ĉe:  | (Meet with us the 2nd Saturday of every month:) |
-|--------------------------------------------|-------------------------------------------------|
-| 5:00 - 7:00 pm (CST)                       |                                                 |
-|--------------------------------------------|-------------------------------------------------|
+|---------------------------------------------|-------------------------------------------------|
+| Kunvenu kun ni la duan dimancxon monate ĉe: | (Meet with us the 2nd Sunday of every month:)   |
+|---------------------------------------------|-------------------------------------------------|
+| 4:00 - 5:00 pm (CST)                        |                                                 |
+|---------------------------------------------|-------------------------------------------------|
 
 <div class="show-for-small">
 <div class="row">
@@ -32,18 +32,18 @@ permalink: "/kunvenoj/"
 
 <div class="row">
   <div class="large-6 columns">
-      <img src="/images/KovidKrizo.png" alt="Kutime ni kunvenas ĉe la loko sube, sed dum la Kovid Krizo, ni kunvenas nur per Jitsi Meet.">
-      <p>Dum la Kovid Krizo, oni povas aliĝi niajn kunvenojn per ajna retfoliumilo ĉe la suba <a href="https://meet.jit.si/eknt-kunveno">Jitsi Meet retadreso</a>. Vi simple klaku tiun ligilon je la 5a p.t.m., kaj permesu la retejon aliri vian filmilon/mikrofonon.</p>
+      <img src="/images/KovidKrizo.png" alt="Kutime ni kunvenas ĉe la loko sube, sed dum la Kovid Krizo, ni kunvenas nur per .">
+      <p>Post la Kovid Krizo, oni povas aliĝi niajn kunvenojn per ajna retfoliumilo ĉe la suba <a href="https://us06web.zoom.us/j/84117554639?pwd=RkTYwWm532lLtxwHS47T1vAWuCtNZz.1">Zoom retadreso</a>. Vi simple klaku tiun ligilon je la 4a p.t.m., kaj elsxuti la Zoom programon.</p>
   </div>
   <div class="large-6 columns">
-      <img src="/images/CovidCrisis.png" alt="Usually we meet at the location below, but during the Covid Crisis we are meeting only on Jitsi Meet.">
-      <p>During the Covid Crisis, you can join our meetings with any web-browser via the below <a href="https://meet.jit.si/eknt-kunveno">Jitsi Meet address</a>. To join, simply click that link at 5:00 pm, and grant the website camera/microphone access.</p>
+      <img src="/images/CovidCrisis.png" alt="After the Covid Crisis we are meeting only on Jitsi Meet.">
+      <p>After the Covid Crisis, you can join our meetings with any web-browser via the below <a href="https://us06web.zoom.us/j/84117554639?pwd=RkTYwWm532lLtxwHS47T1vAWuCtNZz.1">Zoom address</a>. To join, simply click that link at 4:00 pm, and install the zoom app.</p>
   </div>
 </div>
 
 <hr />
 <p style="text-align: center">
-  <b>Jitsi Meet: <a href="https://meet.jit.si/eknt-kunveno">https://meet.jit.si/eknt-kunveno</a></b>
+  <b>Jitsi Meet: <a href="https://us06web.zoom.us/j/84117554639?pwd=RkTYwWm532lLtxwHS47T1vAWuCtNZz.1">https://us06web.zoom.us/j/84117554639?pwd=RkTYwWm532lLtxwHS47T1vAWuCtNZz.1</a></b>
 </p>
 <hr />
 
