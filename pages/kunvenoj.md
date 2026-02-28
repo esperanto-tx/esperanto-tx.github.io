@@ -30,23 +30,9 @@ permalink: "/kunvenoj/"
 </div>
 </div>
 
-<div class="row">
-  <div class="large-6 columns">
-      <img src="/images/KovidKrizo.png" alt="Kutime ni kunvenas ĉe la loko sube, sed dum la Kovid Krizo, ni kunvenas nur per .">
-      <p>Post la Kovid Krizo, oni povas aliĝi niajn kunvenojn per ajna retfoliumilo ĉe la suba <a href="https://us06web.zoom.us/j/84117554639?pwd=RkTYwWm532lLtxwHS47T1vAWuCtNZz.1">Zoom retadreso</a>. Vi simple klaku tiun ligilon je la 4a p.t.m., kaj elsxuti la Zoom programon.</p>
-  </div>
-  <div class="large-6 columns">
-      <img src="/images/CovidCrisis.png" alt="After the Covid Crisis we are meeting only on Jitsi Meet.">
-      <p>After the Covid Crisis, you can join our meetings with any web-browser via the below <a href="https://us06web.zoom.us/j/84117554639?pwd=RkTYwWm532lLtxwHS47T1vAWuCtNZz.1">Zoom address</a>. To join, simply click that link at 4:00 pm, and install the zoom app.</p>
-  </div>
-</div>
-
 <hr />
 <p style="text-align: center">
   <b>Jitsi Meet: <a href="https://us06web.zoom.us/j/84117554639?pwd=RkTYwWm532lLtxwHS47T1vAWuCtNZz.1">https://us06web.zoom.us/j/84117554639?pwd=RkTYwWm532lLtxwHS47T1vAWuCtNZz.1</a></b>
 </p>
 <hr />
 
-<!-- The map of the Central Market meeting -->
-<a href="https://maps.google.com/?ie=UTF8&amp;ll=32.849404,-96.76871&amp;spn=0.005863,0.007188&amp;t=h&amp;z=18&amp;source=embed" style="color:#0000FF;text-align:left" target='blank'>Spektu pli grandan Mapon (Look at a larger map)</a>
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/?ie=UTF8&amp;ll=32.849404,-96.76871&amp;spn=0.005863,0.007188&amp;t=h&amp;z=17&amp;output=embed"></iframe>
