@@ -15,21 +15,6 @@ permalink: "/kunvenoj/"
 | 4:00 - 5:00 pm (CST)                        |                                                 |
 |---------------------------------------------|-------------------------------------------------|
 
-<div class="show-for-small">
-<div class="row">
-    <div class="small-12 columns">
-        </div><!-- /.small-12.columns -->
-    </div>
-<div class="row">
-  <div class="small-6 columns">
-      <img src="/images/KovidKrizo.png">
-  </div>
-  <div class="small-6 columns">
-      <img src="http://placehold.it/470x264/e05a10/e1e75e&amp;text=2+Columns">
-  </div>
-</div>
-</div>
-
 <hr />
 <p style="text-align: center">
   <b>Zoom: <a href="https://us06web.zoom.us/j/84117554639?pwd=RkTYwWm532lLtxwHS47T1vAWuCtNZz.1">https://us06web.zoom.us/j/84117554639?pwd=RkTYwWm532lLtxwHS47T1vAWuCtNZz.1</a></b>
